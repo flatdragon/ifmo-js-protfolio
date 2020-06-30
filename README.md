@@ -28,7 +28,7 @@
 * FRMW_002: https://github.com/flatdragon/ifmo-js-frmw-002
 * FRMW_003: https://github.com/flatdragon/ifmo-js-frmw-003
 * FRMW_004: https://github.com/flatdragon/ifmo-js-frmw-004
-* FRMW_005: https://github.com/flatdragon/ifmo-js-frmw-005/
+* FRMW_005: https://github.com/flatdragon/ifmo-js-frmw-005
 * FRMW_006: https://github.com/flatdragon/ifmo-js-frmw-006
 * FRMW_007: https://github.com/flatdragon/ifmo-js-frmw-007
 
